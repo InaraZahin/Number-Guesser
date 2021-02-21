@@ -1,0 +1,13 @@
+C:\Users\inara\source\repos\NumberGuesses\bin\Debug\netcoreapp3.1\NumberGuesses.exe
+C:\Users\inara\source\repos\NumberGuesses\bin\Debug\netcoreapp3.1\NumberGuesses.deps.json
+C:\Users\inara\source\repos\NumberGuesses\bin\Debug\netcoreapp3.1\NumberGuesses.runtimeconfig.json
+C:\Users\inara\source\repos\NumberGuesses\bin\Debug\netcoreapp3.1\NumberGuesses.runtimeconfig.dev.json
+C:\Users\inara\source\repos\NumberGuesses\bin\Debug\netcoreapp3.1\NumberGuesses.dll
+C:\Users\inara\source\repos\NumberGuesses\bin\Debug\netcoreapp3.1\NumberGuesses.pdb
+C:\Users\inara\source\repos\NumberGuesses\obj\Debug\netcoreapp3.1\NumberGuesses.csprojAssemblyReference.cache
+C:\Users\inara\source\repos\NumberGuesses\obj\Debug\netcoreapp3.1\NumberGuesses.AssemblyInfoInputs.cache
+C:\Users\inara\source\repos\NumberGuesses\obj\Debug\netcoreapp3.1\NumberGuesses.AssemblyInfo.cs
+C:\Users\inara\source\repos\NumberGuesses\obj\Debug\netcoreapp3.1\NumberGuesses.csproj.CoreCompileInputs.cache
+C:\Users\inara\source\repos\NumberGuesses\obj\Debug\netcoreapp3.1\NumberGuesses.dll
+C:\Users\inara\source\repos\NumberGuesses\obj\Debug\netcoreapp3.1\NumberGuesses.pdb
+C:\Users\inara\source\repos\NumberGuesses\obj\Debug\netcoreapp3.1\NumberGuesses.genruntimeconfig.cache

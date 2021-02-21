@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "NumberGuesses/1.0.0": {
+        "runtime": {
+          "NumberGuesses.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NumberGuesses/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
